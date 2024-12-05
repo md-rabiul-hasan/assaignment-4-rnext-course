@@ -1,18 +1,11 @@
 # React + Vite Project
 
-This project provides a minimal setup for using React with Vite, ensuring fast development with Hot Module Replacement (HMR) and a clean codebase with ESLint.
+Rnext course assignment 4 ecommerce project.
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
-- [Using ESLint](#using-eslint)
-- [Project Structure](#project-structure)
-- [Learn More](#learn-more)
+- [Live website link](https://assaignment-4-rnext-course.vercel.app/)
 
-## Getting Started
-
-Follow these instructions to set up and run this project on your local machine.
 
 ### Prerequisites
 
